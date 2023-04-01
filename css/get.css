@@ -1,0 +1,105 @@
+.margetop{
+    margin-top: 60px;
+}
+.half{
+    width: 120px;
+    height: 40px;
+    margin: 5px;
+    padding: 2px;
+
+
+}
+.pop {
+   
+    background-color: black;
+    color: white;
+    
+}
+.chrta{
+    background-color: red;
+}
+
+
+
+
+
+.downloadlink{
+    color: white;
+    
+}
+.downloadlink:hover{
+    text-decoration: none;
+    color: white;
+}
+.imghorloge{
+    width: 30px;
+    height: 30px;
+
+}
+.imghorloger{
+    width: 28px;
+    height: 28px;
+}
+.buttontele{
+    background-color: blueviolet;
+}
+.imgpbl{
+    width: 40px;
+    height: 40px;
+}
+.btnnv{
+    background-color: blueviolet;
+    text-decoration: none;
+    color: white;
+}
+.btnnv:hover{
+    color: white;
+}
+
+.frer{
+    border-radius: 50% 50% 50% 50%;
+    size: 5px;
+}
+.taylor{
+    width: 50px;
+}
+
+.showoldpass , .shownewpass{
+    transform: translateX(5px);
+}
+.clickable{
+    cursor: pointer;
+}
+
+.card {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container {
+    padding: 2px 16px;
+  }
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px; /* 5px rounded corners */
+   
+  }
+  
+  /* Add rounded corners to the top left and the top right corner of the image */
+  img {
+    border-radius: 5px 5px 0 0;
+  }  
+
+
+.test{
+    border: 1px solid black;
+    display: flex;
+}

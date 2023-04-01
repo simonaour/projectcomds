@@ -1,0 +1,1 @@
+<?php header("location:pagelowla/pages-login.php") ?>
